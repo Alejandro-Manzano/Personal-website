@@ -5,6 +5,7 @@ const Home = () => {
   return (
     <Layout>
         Home
+        Alejandro Manzano
     </Layout>
   )
 }
