@@ -6,6 +6,7 @@ const Home = () => {
     <Layout>
         Home
         Alejandro Manzano
+        Change Home
     </Layout>
   )
 }
