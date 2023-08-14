@@ -5,6 +5,7 @@ const Footer = () => {
   return (
     <footer>
       Footer
+      Linkedin
     </footer>
   )
 }
