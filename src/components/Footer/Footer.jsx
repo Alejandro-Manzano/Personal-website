@@ -6,9 +6,6 @@ const Footer = () => {
     <footer>
       Footer
       Linkedin
-  
-  
-
     </footer>
   )
 }
